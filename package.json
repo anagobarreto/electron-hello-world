@@ -1,0 +1,14 @@
+{
+  "name": "electron-hello-world",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:Anacgbarreto/electron-hello-world.git",
+  "author": "Anacgbarreto <anacgbarreto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.9"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  }
+}
